@@ -8,10 +8,6 @@ body {
     overflow-x: hidden;
 }
 
-div{
-    white-space: pre;
-}
-
 p {
     font-size: 20px;
 }
